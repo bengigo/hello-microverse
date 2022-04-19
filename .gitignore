@@ -1,0 +1,5 @@
+#ignore test.md file
+test.md
+
+#ignore MacOs default file
+.DS_Store
