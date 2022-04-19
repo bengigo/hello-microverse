@@ -3,3 +3,6 @@ test.md
 
 #ignore MacOs default file
 .DS_Store
+
+#ignore node_modules
+node_modules/
